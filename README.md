@@ -10,11 +10,7 @@ D : delete<br>
 ----------------------------------------------------------------------------
 
 # 사용언어
-ASP.NET
-C#
-JavaScript
-jquery1.10.2
-Oracle11g
+ASP.NET / C# / JavaScript / jquery1.10.2 / Oracle11g
 
 # 기여도 및 참여도
 총 5M 투입 
